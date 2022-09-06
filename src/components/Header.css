@@ -12,3 +12,7 @@
   font-family: monospace;
   font-size: 30px;
 }
+.logout:hover{
+cursor: pointer;
+color:maroon;
+}
